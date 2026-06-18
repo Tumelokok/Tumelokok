@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Tumelo Kok 👋
 
-<!--
-**Tumelokok/Tumelokok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on building real-world software solutions, growing my software engineering skills, and creating technology businesses in South Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+### 🏠 Lauren Palace Platform
+Student accommodation and guest house management platform.
+
+### 🍔 Monate Kona Platform
+Restaurant ordering and management platform.
+
+### 🎵 Bang Biza Fiza
+Creator platform for music, content, merchandise and community engagement.
+
+### 🏘️ Rental Marketplace SA
+Property marketplace connecting landlords and tenants.
+
+### 🤖 AI Opportunity Finder
+AI-powered career guidance and internship recommendation platform.
+
+### 🎓 Campus Connect
+Student collaboration and academic resource sharing platform.
+
+## Currently Learning
+
+- JavaScript
+- React
+- Node.js
+- PostgreSQL
+- Software Engineering
+- Artificial Intelligence
+
+## 2026 Goals
+
+- Complete BSc Computer Science
+- Begin Honours studies
+- Build 10 production-ready projects
+- Earn industry certifications
+- Secure a graduate software engineering opportunity
+
+## Connect With Me
+
+GitHub: https://github.com/Tumelokok
