@@ -2,7 +2,7 @@
 
 ## Computer Science Student
 
-I'm a Computer Science student focused on building real-world software solutions, growing my software engineering skills, and creating technology businesses in South Africa.
+I'm a Computer Science Graduate focused on building real-world software solutions, growing my software engineering skills, and creating technology businesses in South Africa.
 
 ## Current Projects
 
@@ -33,14 +33,6 @@ Student collaboration and academic resource sharing platform.
 - Software Engineering
 - Artificial Intelligence
 
-## 2026 Goals
-
-- Complete BSc Computer Science
-- Begin Honours studies
-- Build 10 production-ready projects
-- Earn industry certifications
-- Secure a graduate software engineering opportunity
-
 ## Connect With Me
-
+https://www.linkedin.com/in/tumelo-kok-0a3580236/
 GitHub: https://github.com/Tumelokok
