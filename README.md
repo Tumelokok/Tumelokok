@@ -1,4 +1,4 @@
-# Hi, I'm Tumelo Kok 👋
+# Hi, I'm Tumelo Kok 
 
 ## Computer Science Student
 
